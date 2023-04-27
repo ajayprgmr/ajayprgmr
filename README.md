@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/ajayprgmr/Resume/blob/main/banner%20(1).png)]
 
 
 <h1 align="center">Hi 👋, I'm Ajay Kushwaha</h1>
