@@ -1,7 +1,7 @@
 
-[![MasterHead](https://cdn.pixabay.com/photo/2017/11/16/09/32/matrix-2953869_960_720.jpg)]
+[![MasterHead]https://cdn.pixabay.com/photo/2017/11/16/09/32/matrix-2953869_960_720.jpg]
 <h1 align="center">Hi 👋, I'm Ajay Kushwaha</h1>
-<h3 align="center">A Software Development enthusiast and C++ Programmer.</h3>
+<h3 align="center">A Software Development Enthusiast and C++ Programmer.</h3>
 <img src="https://tenor.com/view/programmer-rounded-edges-gif-26214286" alt="Coding width="800px">
 
 
