@@ -1,7 +1,4 @@
 [![MasterHead](https://github.com/ajayprgmr/Resume/blob/main/banner%20(1).png)]
-[![MasterHead](https://github.com/ajayprgmr/Resume/blob/main/banner%20(2).png)]
-
-
 <h1 align="center">Hi 👋, I'm Ajay Kushwaha</h1>
 <h3 align="center">A Software Development Enthusiast and C++ Programmer.</h3>
   <p align="center">
